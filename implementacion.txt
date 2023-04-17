@@ -1,0 +1,31 @@
+Para realizar la implementación de esta base de datos se deben seguir los siguientes pasos
+(herramienta utilizada para esto es Mysql Workbench)
+
+Puntos para la ejecución de la Base de datos:
+
+1. Creación de tablas
+     -Ejecutar el archivo scripts/descripcionTablasMendivelsoCaicedo.sql
+2. Inserción de datos
+     -Ejecutar el archivo scripts/ScriptInsMendivelsoCaicedo.sql
+3. Vistas
+     -Ejecutar el archivo scripts/ScriptVisMendivelsoCaicedo.sql
+4. Funciones
+     -Ejecutar el archivo scripts/ScriptsFuncMendivelsoCaicedo.sql
+5. Procedimientos
+     -Ejecutar el archivo scripts/ScriptStoredMendivelsoCaicedo.sql
+6. Disparadores
+     -Ejecutar el archivo scripts/ScriptsTriggersMendivelsoCaicedo.sql
+7. Usuarios
+     -Ejecutar el archivo scripts/ScriptUsersMendivelsoCaicedo.sql
+8. Transacciones
+     -Ejecutar el archivo scripts/ScriptTclMendivelsoCaicedo.sql
+
+Puntos adicionales:
+
+9. Se tiene el archivo para implementar el Back up de las tablas de la base de datos 
+     -El archivo scripts/BackupMendivelsoCaicedo.sql
+10. Diagrama de entidad relación 
+     -Esta en el archivo  scripts/diagrama_e_r.mwb
+
+nota: Dentro los archivos sql se tienen comentarios para explicar el funcionamiento o descripción de la acción
+y tambien pruebas de lo que vamos creando como la pureba de las funciones, procedimientos entre otros.
